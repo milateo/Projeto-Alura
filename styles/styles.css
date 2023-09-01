@@ -119,6 +119,7 @@ h1 {
 }
 
 .titulo-principal {
+    font-family: var(--font-terciaria);
     color: var(--cor-hover);
     font-size: 2.75rem;
     text-align: center;
