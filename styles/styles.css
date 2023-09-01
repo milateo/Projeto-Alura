@@ -51,7 +51,7 @@ h1 {
     font-size: 50px;
 }
 
-#nome-autor::after {
+.nome-autor::after {
     content: "|";
     animation: piscar 1s infinite;
 }
@@ -119,7 +119,7 @@ h1 {
 }
 
 .titulo-principal {
-    font-family: var(--font-terciaria);
+    font-family: var(--font-primaria);
     color: var(--cor-hover);
     font-size: 2.75rem;
     text-align: center;
