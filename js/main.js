@@ -1,6 +1,6 @@
 var texto = "Olá, que bom ter você aqui!";
 var atraso = 200;
-const textoElemento = document.querySelector(".apresentacaoconteudotitulo");
+const textoElemento = document.querySelector(".titulo-principal");
 
 
 var contadorDeLetras = 0;
